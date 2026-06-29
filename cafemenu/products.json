@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "Hot Drinks",
+    "price": 45,
+    "image": "images/products/espresso.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Double Espresso",
+    "category": "Hot Drinks",
+    "price": 60,
+    "image": "images/products/double-espresso.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Americano",
+    "category": "Hot Drinks",
+    "price": 55,
+    "image": "images/products/americano.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cappuccino",
+    "category": "Hot Drinks",
+    "price": 65,
+    "image": "images/products/cappuccino.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Latte",
+    "category": "Hot Drinks",
+    "price": 70,
+    "image": "images/products/latte.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "category": "Hot Drinks",
+    "price": 75,
+    "image": "images/products/flat-white.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mocha",
+    "category": "Hot Drinks",
+    "price": 80,
+    "image": "images/products/mocha.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hot Chocolate",
+    "category": "Hot Drinks",
+    "price": 75,
+    "image": "images/products/hot-chocolate.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Turkish Coffee",
+    "category": "Hot Drinks",
+    "price": 40,
+    "image": "images/products/turkish-coffee.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tea",
+    "category": "Hot Drinks",
+    "price": 30,
+    "image": "images/products/tea.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Iced Latte",
+    "category": "Cold Drinks",
+    "price": 80,
+    "image": "images/products/iced-latte.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Iced Mocha",
+    "category": "Cold Drinks",
+    "price": 85,
+    "image": "images/products/iced-mocha.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Iced Americano",
+    "category": "Cold Drinks",
+    "price": 70,
+    "image": "images/products/iced-americano.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Caramel Frappé",
+    "category": "Cold Drinks",
+    "price": 95,
+    "image": "images/products/caramel-frappe.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Vanilla Frappé",
+    "category": "Cold Drinks",
+    "price": 95,
+    "image": "images/products/vanilla-frappe.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Oreo Shake",
+    "category": "Mlik shake",
+    "price": 110,
+    "image": "images/products/oreo-shake.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Chocolate MlikShake",
+    "category": "Mlik shake",
+    "price": 120,
+    "image": "images/products/Chocolate-MlikShake.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Lutes MlikShake",
+    "category": "Mlik shake",
+    "price": 130,
+    "image": "images/products/Lutes-MlikShake.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Vanilla Caramel MilkShake",
+    "category": "Mlik shake",
+    "price": 140,
+    "image": "images/products/Vanilla-Caramel-MilkShake.jpg"
+  },
+   {
+    "id": 20,
+    "name": "Banana MilkShake",
+    "category": "Mlik shake",
+    "price": 115,
+    "image": "images/products/Banana-MilkShake.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Strawberry MilkShake",
+    "category": "Mlik shake",
+    "price": 125,
+    "image": "images/products/Strawberry-MilkShake.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Orange Juice",
+    "category": "Fresh Juice",
+    "price": 75,
+    "image": "images/products/Orange-Juice.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Watermelon Juice",
+    "category": "Fresh Juice",
+    "price": 85,
+    "image": "images/products/Watermelon-Juice.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Pineapple Juice",
+    "category": "Fresh Juice",
+    "price": 60,
+    "image": "images/products/Pineapple-Juice.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Pineapple Juice",
+    "category": "Fresh Juice",
+    "price": 65,
+    "image": "images/products/Pineapple-Juice.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Mango Juice",
+    "category": "Fresh Juice",
+    "price": 70,
+    "image": "images/products/mango.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Strawberry Juice",
+    "category": "Fresh Juice",
+    "price": 65,
+    "image": "images/products/strawberry.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Apple Juice",
+    "category": "Fresh Juice",
+    "price": 60,
+    "image": "images/products/Apple-Juice.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Blueberry Juice",
+    "category": "Fresh Juice",
+    "price": 90,
+    "image": "images/products/Blueberry-Juice.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Kiwi Juice",
+    "category": "Fresh Juice",
+    "price": 95,
+    "image": "images/products/Kiwi-Juice.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Classic Lemon Mojito",
+    "category": "Mojito",
+    "price": 70,
+    "image": "images/products/mojito.jpg"
+  },
+   {
+    "id": 32,
+    "name": "Pineapple Mojito",
+    "category": "Mojito",
+    "price": 75,
+    "image": "images/products/pineapple-mojito.jpg"
+  },
+   {
+    "id": 33,
+    "name": "Blueberry Mojito",
+    "category": "Mojito",
+    "price": 80,
+    "image": "images/products/blueberry-mojito.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Strawberry Mojito",
+    "category": "Mojito",
+    "price": 70,
+    "image": "images/products/Strawberry-mojito.jpg"
+  },
+   {
+    "id": 35,
+    "name": "Blackberry Mojito",
+    "category": "Mojito",
+    "price": 90,
+    "image": "images/products/Blackberry-mojito.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Watermelon Mojito",
+    "category": "Mojito",
+    "price": 95,
+    "image": "images/products/Watermelon-mojito.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "price": 90,
+    "image": "images/products/chocolate-cake.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 95,
+    "image": "images/products/cheesecake.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Brownie",
+    "category": "Desserts",
+    "price": 75,
+    "image": "images/products/brownie.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Red Velvet Cake",
+    "category": "Desserts",
+    "price": 100,
+    "image": "images/products/red-velvet.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Croissant",
+    "category": "Desserts",
+    "price": 55,
+    "image": "images/products/croissant.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Donut",
+    "category": "Desserts",
+    "price": 45,
+    "image": "images/products/donut.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Waffle",
+    "category": "Desserts",
+    "price": 110,
+    "image": "images/products/waffle.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Pancake",
+    "category": "Desserts",
+    "price": 100,
+    "image": "images/products/pancake.jpg"
+  },
+
+{
+    "id": 45,
+    "name": "Classic Burger",
+    "category": "Meals",
+    "price": 170,
+    "image": "images/products/burger.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Crispy Chicken Burger",
+    "category": "Meals",
+    "price": 180,
+    "image": "images/products/crispy-burger.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Margherita Pizza",
+    "category": "Meals",
+    "price": 190,
+    "image": "images/products/margherita.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Pepperoni Pizza",
+    "category": "Meals",
+    "price": 220,
+    "image": "images/products/pepperoni.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Chicken Alfredo Pasta",
+    "category": "Meals",
+    "price": 190,
+    "image": "images/products/alfredo.jpg"
+  },
+  {
+    "id": 50,
+    "name": "BBQ Chicken Pizza",
+    "category": "Meals",
+    "price": 230,
+    "image": "images/products/bbq-pizza.jpg"
+  },
+
+  {
+    "id": 51,
+    "name": "French Fries",
+    "category": "Appetizers",
+    "price": 60,
+    "image": "images/products/fries.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Cheese Fries",
+    "category": "Appetizers",
+    "price": 85,
+    "image": "images/products/cheese-fries.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Onion Rings",
+    "category": "Appetizers",
+    "price": 70,
+    "image": "images/products/onion-rings.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Chicken Strips",
+    "category": "Appetizers",
+    "price": 120,
+    "image": "images/products/chicken-strips.jpg"
+  }
+]
